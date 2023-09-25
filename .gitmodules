@@ -1,0 +1,3 @@
+[submodule "nixos"]
+	path = nixos
+	url = https://gitlab.com/geromahony/nixos.git
